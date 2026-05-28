@@ -1,8 +1,8 @@
-# AI-Assisted Digital Claims Management Prototype
+# Digital Claims Management Prototype with AI
 
 ## Overview
 
-This project explores how AI-assisted product development and business architecture techniques can accelerate the design of a modern digital-first claims management platform for group insurance and health benefits.
+This project explores how product development and business architecture techniques can accelerate the design of a modern digital-first claims management platform for group insurance and health benefits.
 
 The project focuses on improving:
 
@@ -126,13 +126,13 @@ Incorporate:
 
 ---
 
-# AI-Assisted Workflow
+# Workflow
 
 This project experimented with:
 
-* AI-assisted product specification,
-* AI-supported workflow decomposition,
-* rapid UX iteration,
+* Product specification,
+* Workflow decomposition,
+* rapid UX iteration with the use of product specification and AI,
 * and structured business architecture generation.
 
 The focus was not replacing product thinking with AI, but using AI to accelerate:
@@ -166,7 +166,7 @@ AI was most effective when used alongside:
 
 # Future Enhancements
 
-* More advanced workflow orchestration
+* More customized advanced workflow orchestration
 * Expanded provider experiences
 * AI-assisted claims guidance
 * Advanced fraud detection concepts
